@@ -1,5 +1,5 @@
 var earthQuake = L.map("map", {
-    center: [39.09, -94.57],
+    center: [37.9, -95.71],
     zoom: 4.85
   })
 
